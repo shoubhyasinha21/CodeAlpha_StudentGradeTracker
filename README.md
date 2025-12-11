@@ -10,6 +10,11 @@ Student Grade Tracker is a Java-based application designed to manage and monitor
 - Save and load student data using file handling
 
 # Technologies Used
+Build a Java program to input and manage student grades.
+● Calculate average, highest, and lowest scores.
+● Use arrays or ArrayLists to store and manage data.
+● Display a summary report of all students.
+● Make the interface console-based or GUI-based as desired.
 - Java (Core Java, OOP concepts)
 - File handling for data storage
 - Console-based user interface
